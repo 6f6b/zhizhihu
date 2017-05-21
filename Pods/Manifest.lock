@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.3.0)
+  - Kingfisher (3.4.0)
+  - MJRefresh (3.1.12)
+  - ObjectMapper (2.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3.0)
+  - Kingfisher (~> 3.0)
+  - MJRefresh
+  - ObjectMapper (~> 2.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  Kingfisher: 5690cfb3d1bddf3a98d679a3a34d0b7294974ed2
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ObjectMapper: d3b3de11267f5d971f390eb8d63dd509116a4329
+
+PODFILE CHECKSUM: e351ef6a9856d948cd5e10b89e8037fbc6217097
+
+COCOAPODS: 1.2.0
